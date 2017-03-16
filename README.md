@@ -23,6 +23,7 @@ export default class{render=()=>!1}
 - [Slides with Parallax](https://sketch.expo.io/Sk90tMVol) by [satya164](https://github.com/satya164)
 - [Simple Shared Transitions](https://sketch.expo.io/BkDXSe4sx) by [satya164](https://github.com/satya164)
 - [Background Image](https://sketch.expo.io/B1EAShDie) ([code source](background-image.js))
+- [Background Image with overlay](https://sketch.expo.io/S15Lt3vjg) ([code source](background-image-with-overlay.js))
 
 ### Graphics
 
