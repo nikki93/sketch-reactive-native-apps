@@ -25,6 +25,7 @@ export default class{render=()=>!1}
 - [Background Image](https://sketch.expo.io/B1EAShDie) ([code source](background-image.js))
 - [Background Image with overlay](https://sketch.expo.io/S15Lt3vjg) ([code source](background-image-with-overlay.js))
 - [Animations](https://sketch.expo.io/Bylk89aDig) by [react-native-training](https://medium.com/react-native-training) ([source](https://medium.com/react-native-training/react-native-animations-using-the-animated-api-ebe8e0669fae#.2ue10nb9s))
+- [Revolving doors](https://sketch.expo.io/HJg0UCvjg)
 
 ### Graphics
 
