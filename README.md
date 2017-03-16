@@ -22,6 +22,7 @@ export default class{render=()=>!1}
 - [Auto-Hiding Header](https://sketch.expo.io/B1v5RS7ix) by [satya164](https://github.com/satya164)
 - [Slides with Parallax](https://sketch.expo.io/Sk90tMVol) by [satya164](https://github.com/satya164)
 - [Simple Shared Transitions](https://sketch.expo.io/BkDXSe4sx) by [satya164](https://github.com/satya164)
+- [Background Image](https://sketch.expo.io/B1EAShDie) ([code source](background-image.js))
 
 ### Graphics
 
