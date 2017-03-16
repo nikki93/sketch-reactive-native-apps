@@ -2,7 +2,7 @@
 
 List of react native apps on [sketch.expo.io](https://sketch.expo.io)
 
-[Shortest valid app](https://sketch.expo.io/rJvvoYwjx) (35 chars):
+[Shortest valid app](https://sketch.expo.io/rJvvoYwjx) (35 chars) by [naoufal](https://github.com/naoufal):
 
 ```es6
 export default class{render=()=>!1}
